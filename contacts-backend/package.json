@@ -1,0 +1,27 @@
+{
+  "name": "contacts-backend",
+  "version": "1.0.0",
+  "description": "\"Starting a new project\",",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "server.js",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yshhh17/contacts-manager.git"
+  },
+  "author": "Yash",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yshhh17/contacts-manager/issues"
+  },
+  "homepage": "https://github.com/yshhh17/contacts-manager#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
